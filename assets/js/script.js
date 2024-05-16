@@ -23,6 +23,7 @@ let section2dark = document.getElementById('section2dark');
 
 icon.onclick = function(){
     section2dark.classList.toggle('dark');
+    
 }
 
 
